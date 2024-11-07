@@ -2,7 +2,6 @@
 """
 Created on Mon Sep 23 12:15:00 2024
 
-@author: MARION.THARREAU, EDWARD COURJAUD
 """
 
 class Joueur:
