@@ -2,7 +2,7 @@
 """
 Created on Mon Sep 23 12:16:48 2024
 
-@author: MARION.THARREAU, EDWARD COURJAUD
+
 """
 
 from class_carte import Carte
