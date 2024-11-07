@@ -2,7 +2,7 @@
 """
 Created on Mon Sep 23 12:14:53 2024
 
-@author: MARION.THARREAU, EDWARD COURJAUD
+
 """
 
 class Main:
