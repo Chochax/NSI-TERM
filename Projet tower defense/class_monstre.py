@@ -2,7 +2,7 @@
 """
 Created on Tue Oct  8 09:43:09 2024
 
-@author: EDWARD.COURJAUD, MARION THARREAU, ARTHUR GABORIAU
+@author: EDWARD
 """
 
 import time
