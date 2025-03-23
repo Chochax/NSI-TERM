@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 15 08:29:58 2024
 
-@author: EDWARD.COURJAUD, MARION THARREAU, ARTHUR GABORIAU
+@author: MARION
 """
 from tkinter import Button, PhotoImage, Label
 class Case:
