@@ -2,7 +2,7 @@
 """
 Created on Tue Oct  8 09:44:13 2024
 
-@author: EDWARD.COURJAUD, MARION THARREAU, ARTHUR GABORIAU
+@author: EDWARD, MARION, ARTHUR
 """
 from tkinter import Label, Toplevel
 import time
