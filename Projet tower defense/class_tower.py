@@ -2,7 +2,7 @@
 """
 Created on Tue Oct  8 09:43:24 2024
 
-@author: EDWARD.COURJAUD, MARION THARREAU, ARTHUR GABORIAU
+@author: MARION
 """
 from tkinter import PhotoImage
 
