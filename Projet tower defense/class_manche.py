@@ -2,7 +2,7 @@
 """
 Created on Wed Nov  6 12:45:45 2024
 
-@author: EDOUARD.COURJAUD
+@author: EDWARD
 """
 from tkinter import Button
 
