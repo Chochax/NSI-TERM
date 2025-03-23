@@ -2,7 +2,7 @@
 """
 Created on Tue Dec  3 08:05:19 2024
 
-@author: MARION.THARREAU, EDWARD COURJAUD
+@author: MARION, EDWARD
 """
 from random import *
 from tkinter import *
