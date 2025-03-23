@@ -2,7 +2,7 @@
 """
 Created on Tue Oct  8 09:20:09 2024
 
-@author: EDWARD.COURJAUD, MARION THARREAU, ARTHUR GABORIAU
+@author: EDWARD, MARION, ARTHUR
 """
 from class_joueur import Joueur
 from class_monstre import Monstre
