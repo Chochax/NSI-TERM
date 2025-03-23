@@ -2,7 +2,7 @@
 """
 Created on Thu Dec  5 16:25:25 2024
 
-@author: MARION.THARREAU, EDWARD COURJAUD
+@author: MARION, EDWARD
 """
 from random import *
 from arbre_objet import Noeud
